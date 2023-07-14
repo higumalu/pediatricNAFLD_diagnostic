@@ -1,2 +1,6 @@
-# pediatricNAFLD_diagnostic
-backbone and dataset
+# pediatricNAFLD diagnostic using QUS and deep learning
+Focus on backbone and dataload
+
+
+
+
